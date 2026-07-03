@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:39FF14&height=220&section=header&text=AKXOTECH&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Tecnologia%20que%20impulsiona%20resultados.&descAlignY=58&descSize=20&descColor=ffffff&animation=fadeIn" />
 
-Soluções completas em desenvolvimento web, mobile, dados e automação para negócios que querem crescer com tecnologia — sem complicação e sem gastar mais do que precisam.
+Soluções completas em desenvolvimento web, mobile, dados e automação de processos para empresas que buscam crescimento sustentável através da tecnologia.
 
 [![Instagram](https://img.shields.io/badge/Instagram-@akxo.tech-000000?style=for-the-badge&logo=instagram&logoColor=39FF14)](https://www.instagram.com/akxo.tech/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-81%209945--2465-000000?style=for-the-badge&logo=whatsapp&logoColor=39FF14)](https://wa.me/5581994522465)
@@ -14,17 +14,15 @@ Soluções completas em desenvolvimento web, mobile, dados e automação para ne
 
 ## 🟢 Quem somos
 
-A **AkxoTech** é uma empresa de tecnologia fundada por três desenvolvedores — Victory Mendes, Daniel e Victor Hugo — que decidiram unir experiência técnica multidisciplinar em uma única empreitada: entregar tecnologia de qualidade, com agilidade e a um custo justo, para negócios de todos os tamanhos.
-
-Atuamos do primeiro contato ao pós-entrega: entendemos a dor do cliente, propomos a solução técnica certa e colocamos no ar — seja um site institucional, um sistema interno ou uma automação que elimina trabalho manual repetitivo.
+A AkxoTech é uma empresa de tecnologia fundada por Victory Mendes, Daniel e Victor Hugo, reunindo experiência técnica multidisciplinar para entregar soluções digitais de qualidade, com agilidade e custo-benefício, a negócios de todos os portes.
+Atuamos em todas as etapas do projeto — do diagnóstico inicial ao suporte pós-entrega. Compreendemos as necessidades específicas de cada cliente e desenvolvemos a solução técnica mais adequada, seja um site institucional, um sistema interno ou uma automação de processos.
 
 ## 🎯 Missão
 
-Tornar a tecnologia acessível para empresas de todos os portes, entregando soluções digitais rápidas, sólidas e sob medida que geram resultado real para o negócio do cliente.
-
+Prover soluções tecnológicas personalizadas e de alta qualidade, contribuindo para o crescimento sustentável de empresas de todos os portes.
 ## 🔭 Visão
 
-Ser reconhecida em Pernambuco — e, na sequência, em todo o Brasil — como a empresa de tecnologia de referência para negócios que buscam soluções digitais ágeis, confiáveis e com o melhor custo-benefício do mercado.
+Consolidar-se como referência em soluções tecnológicas em Pernambuco, expandindo progressivamente sua atuação para todo o território nacional, reconhecida pela agilidade, confiabilidade e excelência em custo-benefício.
 
 ## 💎 Valores
 
